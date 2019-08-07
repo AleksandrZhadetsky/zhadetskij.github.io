@@ -9,5 +9,4 @@ I have some experience of writing general-purpose console applications, implemen
 ### My interests:
 I'm interested in game development. I want to write my own game engine, with the ability to create characters and levels.
 
-### My repository for autumn asp.net training:
-https://github.com/AlexanderZhadetskij/ASP.NET-Development.Autumn.2019.ZHADZETSKI
+### [My repository for autumn asp.net training](https://github.com/AlexanderZhadetskij/ASP.NET-Development.Autumn.2019.ZHADZETSKI "click me if you a colaborator")
